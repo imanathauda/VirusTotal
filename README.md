@@ -2,7 +2,7 @@
 <b>This is a repo consisting of 4 Python scripts that were done to filter malicious IOCs'. In here, we can filter any IOCs, such as,<b>
 
 <ul>
-<li>file hashes</li>
+<li>File Hashes</li>
 <li>
   IP addresses
 </li>
